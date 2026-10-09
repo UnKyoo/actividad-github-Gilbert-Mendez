@@ -1,0 +1,3 @@
+Permite que personas de diferentes zonas horarios, diferentes zonas fisicas y en cualquier lado puedan 
+trabajar todas sobre un mismo proyecto, el cual les permite guardar el historial de cambios que cada
+uno realiza, asi como les ayuda a revisar y fusionar el código que cada quien realiza. 
